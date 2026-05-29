@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+video {
+  width: 600px;
+  max-width: 100%;
+  border: 2px solid black;
+}
+
+.chat {
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+}
